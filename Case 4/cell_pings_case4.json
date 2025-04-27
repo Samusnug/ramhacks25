@@ -1,0 +1,26 @@
+[
+  {
+    "device_id": "device_sam",
+    "timestamp": "2025-04-10T23:35:00",
+    "lat": 40.730086,
+    "lon": -73.934943
+  },
+  {
+    "device_id": "device_maria",
+    "timestamp": "2025-04-10T23:36:00",
+    "lat": 40.729885,
+    "lon": -73.936061
+  },
+  {
+    "device_id": "device_maria",
+    "timestamp": "2025-04-10T23:42:00",
+    "lat": 40.729956,
+    "lon": -73.935621
+  },
+  {
+    "device_id": "device_jordan",
+    "timestamp": "2025-04-10T23:14:00",
+    "lat": 40.731233,
+    "lon": -73.93544
+  }
+]
